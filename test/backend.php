@@ -1,5 +1,5 @@
 <?php
-require 'client-main/src/OpenAI.php';
+require 'OpenAI/OpenAI.php';
 
 use OpenAI\Api\Gpt3;
 
